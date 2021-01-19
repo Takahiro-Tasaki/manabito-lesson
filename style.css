@@ -348,3 +348,18 @@ footer {
   padding: 20px 0;
   width: 240px;
 }
+
+.error404 h1 {
+	margin: 0 0 30px;
+}
+
+.link-404 a {
+	background-color: #fff;
+	border: solid 1px #666;
+	border-radius: 5px;
+	display: block;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+	width: 200px;
+}
